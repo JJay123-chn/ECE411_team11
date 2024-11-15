@@ -5,8 +5,14 @@
 - **Bill Tong** | [bill4@pdx.edu](mailto:bill4@pdx.edu)
 - **Jersey Yong** | [jersey@pdx.edu](mailto:jersey@pdx.edu)
 - **Samuel Hong** | [samuhong@pdx.edu](mailto:samuhong@pdx.edu)
-
 **Instructor**：Andrew Greenberg
+
+## Catalogue
+- Prototype files
+- Breeadboard prototype
+- Functional Decomposition
+- Homework
+- PCB
 
 ## Requirement: 
 - vscode 
