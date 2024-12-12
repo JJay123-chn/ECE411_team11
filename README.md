@@ -13,16 +13,32 @@
 - Functional Decomposition
 - Homework
 - PCB
+- PCB files
+- Presentation
+- Code 
 
-## Requirement: 
+## introduction 
+this is Team11's project for ECE 411.
+The title is smart light 
+functions：
+- Change the light color according to the temperature
+- Bluetooth remote control
+  - Manual mode and automatic mode switching (M2, M)
+  - Color adjustment
+  - Brightness adjustment
+
+
+
+
+
+## how to connect to this repositories(vscode as an example)
 - vscode 
 - git：下载git管理包
   - mac直接下载xcode自带git管理包
   - 查看电脑是否已安装git
   -     git --version
 - github: 注册GitHub账号
-
-## how to connect to this repositories(vscode as an example)
+- 
 - clone the url:  
 
        https://github.com/JJay123-chn/ECE411_team11.git
